@@ -1,0 +1,28 @@
+{
+  "name": "nodesjslivro",
+  "version": "1.0.0",
+  "description": "Aprendendo NodesJs com Livro ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigomartins806/NodesjsLivro.git"
+  },
+  "author": "Rodrigo Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigomartins806/NodesjsLivro/issues"
+  },
+  "homepage": "https://github.com/rodrigomartins806/NodesjsLivro#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "hbs": "^4.0.6",
+    "mysql": "^2.17.1",
+    "sequelize": "^5.21.2",
+    "sqlite3": "^4.1.0"
+  }
+}
